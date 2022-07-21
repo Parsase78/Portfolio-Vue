@@ -13,7 +13,7 @@
     "dat.gui": "^0.7.7",
     "gsap": "^3.6.0",
     "nuxt": "^2.15.3",
-    "orbit-controls-es6": "^2.0.1",
+    "orbit-controls-es6": "^2.0.0",
     "three": "^0.126.1",
     "threejs-controls-es6": "^1.0.3",
     "vue-scroll-reveal": "^1.0.11"
