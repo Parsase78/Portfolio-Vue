@@ -69,7 +69,7 @@ export default {
 				},
 				{
 					icon: require('../assets/mail.svg'),
-					link: 'mailto:oriane.louis.pro@gmail.com',
+					link: 'mailto:shayan_sepasdar@yahoo.com',
 				},
 			],
 			chevronDown: require('../assets/chevron-down.svg'),

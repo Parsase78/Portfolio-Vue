@@ -15,7 +15,7 @@
 			<span class="font-medium"
 				>Python, JavaScript, React.js, Vue.js and Node.js</span
 			>. I have worked on a variety of projects on
-			<span class="font-medium">Web and Tvs</span> from design to
+			<span class="font-medium">Web and App</span> from design to
 			development and I find myself capable enough to
 			<span class="font-medium">handle pressure well</span>. I'm a bit
 			perfectionist so I like projects well-organized.
@@ -41,6 +41,7 @@ export default {
 		return {
 			skills: [
 				'Javascript',
+				'Python',
 				'Typescript',
 				'Vue.js',
 				'React.js',
@@ -54,7 +55,6 @@ export default {
 				'TailwindCSS',
 				'Webpack',
 				'MongoDB',
-				'Python',
 				'Figma',
 			],
 		}
