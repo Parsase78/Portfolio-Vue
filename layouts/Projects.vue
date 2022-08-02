@@ -42,7 +42,7 @@ import codetips from '@/assets/project1.gif'
 import covidtracker from '@/assets/covidtracker.png'
 import vueflix from '@/assets/vueflix.png'
 import urlShortener from '@/assets/project3.gif'
-import spotifyClone from '@/assets/spotify-clone.png'
+import spotifyClone from '@/assets/github1.gif'
 import reachatt from '@/assets/reachatt.png'
 
 export default {
@@ -55,7 +55,7 @@ export default {
 					title: 'VueFlix',
 					resume: 'Check out the popular and top rated movies',
 					url: 'https://vueflixx.netlify.app/',
-					source: 'https://github.com/o-louis/Vueflixx',
+					source: 'https://github.com/Parsase78/VueFlixx',
 
 				},
 				{
@@ -72,21 +72,21 @@ export default {
 					title: 'Live chat',
 					resume: 'Made with react, you can create or join a room',
 					url: 'https://reachatt.netlify.app/',
-					source: 'https://github.com/o-louis/react-chat-app',
+					source: 'https://github.com/Parsase78/React-chat-app',
 				},
 				{
 					img: urlShortener,
 					title: 'Mario Game',
 					resume: '2 Level mario game , created with Vue',
 					url: '',
-					source: 'https://github.com/o-louis/url-shortener',
+					source: 'https://github.com/Parsase78/Mario-game-21',
 				},
 				{
 					img: spotifyClone,
-					title: 'Spotify Clone Integration',
-					resume: 'Not efficient just visual',
-					url: 'https://spotify-clone01.netlify.app/',
-					source: 'https://github.com/o-louis/spotify-clone',
+					title: 'GitHub Demo',
+					resume: 'Explore each the population of each country',
+					url: 'https://github-demo21.netlify.app/',
+					source: 'https://github.com/Parsase78/WebDESIGN',
 				},
 				{
 					img: covidtracker,
